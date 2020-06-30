@@ -1,0 +1,89 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "workspaceLayout": {
+    "id": "0cee0e3e49688fb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f39c5b82a9e89af",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ds-algos-cpp-drozdek/notes/1. OOPS in C++.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "08e1c9954cacc6ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "70277d10ab0985cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bb793b8ff0378c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4173d364c836dbbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "68b20cb713cd0a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "94b194e34f051ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4db1399ff8b8dab0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "ds-algos-cpp-drozdek/notes/Untitled.md",
+    "README.md"
+  ]
+}
